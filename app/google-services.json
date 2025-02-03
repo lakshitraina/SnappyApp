@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43274411990",
+    "firebase_url": "https://snappy-b39a5-default-rtdb.firebaseio.com",
+    "project_id": "snappy-b39a5",
+    "storage_bucket": "snappy-b39a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43274411990:android:3d75ff5fcf102728ec4e77",
+        "android_client_info": {
+          "package_name": "com.example.snappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43274411990-j64s8tn4q680lajk758soqt9ocp20hu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snappy",
+            "certificate_hash": "308c756d52cf98ff6734f51eff30604179536ac4"
+          }
+        },
+        {
+          "client_id": "43274411990-aajp5enolaf143791jmbk9tbdhcn4lsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqm95b5JX14_z0_ioDney-6OZ9nQVDapI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43274411990-aajp5enolaf143791jmbk9tbdhcn4lsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
